@@ -1,0 +1,14 @@
+[
+    {
+        "name": "sss",
+        "amount": 1,
+        "price_uah": 20000,
+        "id": 0
+    },
+    {
+        "name": "qqq",
+        "amount": 12,
+        "price_uah": 27,
+        "id": 1
+    }
+]
